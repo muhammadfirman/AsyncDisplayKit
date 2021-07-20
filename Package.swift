@@ -20,7 +20,7 @@ let package = Package(
         // Targets can depend on other targets in this package, and on products in packages this package depends on.
         .binaryTarget(
                     name: "AsyncDisplayKit",
-                    url: "https://github.com/muhammadfirman/AsyncDisplayKit/releases/download/1.1/AsyncDisplayKit.xcframework.zip",
+                    url: "https://github.com/muhammadfirman/AsyncDisplayKit/releases/download/2.0/AsyncDisplayKit.xcframework.zip",
                     checksum: "6059f04c8b52ee1e36782c524c0cb21f33640ef399400a02e751a625b3bcb93a"
                 )
     ]
